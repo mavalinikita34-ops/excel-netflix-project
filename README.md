@@ -31,3 +31,4 @@ An exploratory data analysis of Netflix titles using Excel, featuring data clean
 - data clean — Cleaned and processed data
 - PIVOT TABLE — Analysis pivot tables
 - DASHBOARD — Visual summary dashboard
+<img width="1345" height="718" alt="niki" src="https://github.com/user-attachments/assets/5b48fb4a-660b-412d-999a-709bc8b89a02" />
