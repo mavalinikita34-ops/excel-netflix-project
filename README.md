@@ -1,3 +1,4 @@
+<img width="1347" height="704" alt="netflix screenshot" src="https://github.com/user-attachments/assets/aa1f22e3-8c78-4134-a876-6448567a1828" />
 # excel-netflix-project
 ## Project Overview 
 An exploratory data analysis of Netflix titles using Excel, featuring data cleaning, pivot tables, and an interactive dashboard.
