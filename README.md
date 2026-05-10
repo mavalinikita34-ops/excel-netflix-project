@@ -33,5 +33,5 @@ An exploratory data analysis of Netflix titles using Excel, featuring data clean
 - DASHBOARD — Visual summary dashboard
 <img width="1342" height="703" alt="image" src="https://github.com/user-attachments/assets/f2f3292b-1d71-467b-a2ed-2f6bf3382492" />
 <img width="1354" height="720" alt="Capture" src="https://github.com/user-attachments/assets/4866078a-d1ad-4256-8229-6c334fef1bd3" />
-<img width="1347" height="704" alt="Capture" src="https://github.com/user-attachments/assets/3d52cc54-e519-4478-9535-cb44c2ced0fc" /
-<img width="1345" height="718" alt="niki" src="https://github.com/user-attachments/assets/5b48fb4a-660b-412d-999a-709bc8b89a02" />
+  <img width="1345" height="718" alt="niki" src="https://github.com/user-attachments/assets/5b48fb4a-660b-412d-999a-709bc8b89a02" />
+<img width="1345" height="718" alt="niki" src="https://github.com/user-attachments/assets/a47cced5-4ca0-4764-b654-592d35eca7f6" />
